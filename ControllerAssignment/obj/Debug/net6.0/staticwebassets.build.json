@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7FooLPxtLxOfpYSByTQzCVAgWAAWRJHeIdfyyvPzU9k=",
+  "Source": "ControllerAssignment",
+  "BasePath": "_content/ControllerAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerAssignment\\wwwroot",
+      "Source": "ControllerAssignment",
+      "ContentRoot": "C:\\aspnetcore\\ControllerAssignment\\ControllerAssignment\\wwwroot\\",
+      "BasePath": "_content/ControllerAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcore\\ControllerAssignment\\ControllerAssignment\\wwwroot\\form.pdf",
+      "SourceId": "ControllerAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\ControllerAssignment\\ControllerAssignment\\wwwroot\\",
+      "BasePath": "_content/ControllerAssignment",
+      "RelativePath": "form.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\form.pdf"
+    }
+  ]
+}
